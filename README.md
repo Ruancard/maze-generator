@@ -1,1 +1,7 @@
-# maze-generator
+# Python-Map-generator
+
+## Status: working
+
+## Libraries
+
+* Random
